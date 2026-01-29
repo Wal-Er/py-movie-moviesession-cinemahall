@@ -1,4 +1,4 @@
-from db.models import Movie, Genre, Actor
+from db.models import Movie
 
 
 def get_movies(
